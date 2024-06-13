@@ -1,0 +1,3 @@
+[submodule "src/ddeploy"]
+	path = src/ddeploy
+	url = git@github.com:Inochi2D/ddeploy.git
